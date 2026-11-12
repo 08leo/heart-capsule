@@ -4,3 +4,6 @@ npm.log
 .npmcache
 *.local
 .DS_Store
+proxy.log
+targets.json
+.token
