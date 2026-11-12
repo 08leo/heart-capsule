@@ -1,0 +1,17 @@
+{
+  "name": "心事胶囊",
+  "short_name": "心事胶囊",
+  "description": "写下一句心事，让 AI 给你一封有质感的回响。",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#08081a",
+  "theme_color": "#08081a",
+  "icons": [
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
