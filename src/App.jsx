@@ -373,7 +373,10 @@ export default function App() {
         </section>
       </main>
 
-      <footer className="foot">心事只保存在这台设备的浏览器里,不上传任何服务器。</footer>
+      <footer className="foot">
+        心事只保存在这台设备的浏览器里,不上传任何服务器。
+        <span className="ver">v0.3</span>
+      </footer>
 
       {openCapsule && (
         <Modal onClose={() => setOpenId(null)}>

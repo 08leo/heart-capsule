@@ -627,6 +627,12 @@ body {
   padding: 12px 24px 34px;
 }
 
+.foot .ver {
+  margin-left: 8px;
+  opacity: 0.45;
+  font-size: 11px;
+}
+
 /* ---------- 时间胶囊选项 ---------- */
 
 .time-opt {
