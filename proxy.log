@@ -1,3 +1,4 @@
 [CDP Proxy] 运行在 http://localhost:3456
 [CDP Proxy] 选用 Microsoft Edge (端口 9222，带 wsPath) [config.env 偏好]
 [CDP Proxy] 已连接浏览器 (端口 9222)
+[CDP Proxy] 连接断开
